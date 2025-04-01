@@ -1,5 +1,7 @@
 # Site Reliability Engineer (SRE) Interview Preparation Guide
 
+> 📚 [Навигация по материалам](NAVIGATION.md)
+
 This repository is an attempt to consolidate useful resources for Site Reliability Engineer (SRE) interview preparation.
 
 ## Contributing
@@ -9,7 +11,7 @@ Contributions are always welcome!
 
 ## Basics
 
-- [ ] Simple: [What happens when you type in ‘www.cnn.com’ in your browser?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser)
+- [ ] Simple: [What happens when you type in 'www.cnn.com' in your browser?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser)
 - [ ] Detailed: [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when)
 
 ## Linux
@@ -193,7 +195,7 @@ Contributions are always welcome!
 ## Monitoring
 
 - [ ] [Implementing SLOs](https://sre.google/workbook/implementing-slos/)
-- [ ] [Setting up Service Monitoring — The Why’s and What’s](https://amitosh.medium.com/the-whys-and-what-s-of-setting-up-service-monitoring-cc1c165ee088)
+- [ ] [Setting up Service Monitoring — The Why's and What's](https://amitosh.medium.com/the-whys-and-what-s-of-setting-up-service-monitoring-cc1c165ee088)
 - [ ] [How NOT to Measure Latency](https://youtu.be/lJ8ydIuPFeU)
 - [ ] [The four Golden Signals of Kubernetes monitoring](https://sysdig.com/blog/golden-signals-kubernetes)
 
@@ -221,8 +223,8 @@ Contributions are always welcome!
 - [ ] [Going from Zero to SRE](https://www.squadcast.com/blog/going-from-zero-to-sre)
 - [ ] [An Incident Command Training Handbook](https://blog.danslimmon.com/2019/06/24/an-incident-command-training-handbook)
 - [ ] [Howie guide to post‑incident investigations](https://www.jeli.io/howie/welcome)
-- [ ] [Rundown of LinkedIn’s SRE practices](https://www.srepath.com/rundown-of-linkedins-sre-practices)
-- [ ] [Rundown of Uber’s SRE practice](https://www.srepath.com/rundown-of-uber-sre-practice)
+- [ ] [Rundown of LinkedIn's SRE practices](https://www.srepath.com/rundown-of-linkedins-sre-practices)
+- [ ] [Rundown of Uber's SRE practice](https://www.srepath.com/rundown-of-uber-sre-practice)
 - [ ] [SRE in the Real World](https://blog.relyabilit.ie/sre-in-the-real-world)
 - [ ] [SRE Engagement Models](https://certomodo.substack.com/p/sre-engagement-models)
 - [ ] [SRE Checklist](https://github.com/bregman-arie/sre-checklist)
